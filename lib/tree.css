@@ -1,0 +1,7 @@
+.treeNode .collapsed > ul, .collapsed > li {
+    display: none;
+}
+
+.treeNode .expanded > ul, .expanded > li {
+    display: block;
+}
